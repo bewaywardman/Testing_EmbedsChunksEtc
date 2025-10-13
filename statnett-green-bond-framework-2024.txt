@@ -1,0 +1,479 @@
+<!-- image -->
+
+## Green Bond Framework
+
+<!-- image -->
+
+<!-- image -->
+
+Statnett
+
+## Contents
+
+Green Bond Framework 2024
+
+Foreword
+
+| Foreword                                                    |   3 |
+|-------------------------------------------------------------|-----|
+| 1. Overview of Statnett                                     |   4 |
+| Outlook for the power system                                |   4 |
+| 2. Statnett's Sustainability Strategy                       |   5 |
+| 2.1 Enabling the Green Transition                           |   5 |
+| 2.2 How we embed Sustainability                             |   5 |
+| 1. Responsible transition                                   |   6 |
+| 2. Cut our emissions - net zero by 2050                     |   7 |
+| 3. Preserving nature - moving towards being nature positive |   8 |
+| 2.3 Investing for the Green Transition                      |   9 |
+| 2.4 Our Social Contributions                                |  10 |
+| 2.5 Working for sustainable supply chains                   |  11 |
+| 2.6 Governance                                              |  11 |
+| 3. Statnett's Green Bond Framework                          |  12 |
+| Rationale for Green Finance                                 |  12 |
+| Overview of framework                                       |  12 |
+| 3.1 Use of Proceeds                                         |  12 |
+| Look-back period                                            |  16 |
+| 3.2 Process for Project Evaluation and Selection            |  16 |
+| 3.3 Management of Proceeds                                  |  16 |
+| 3.4 Reporting                                               |  17 |
+| 4. External Review                                          |  18 |
+| 4.1 Second Party Opinion (Pre-Issuance)                     |  18 |
+| 4.2 Post-Issuance External Verification                     |  18 |
+| 5. Appendix                                                 |  19 |
+| 5.1 EU Taxonomy assessment                                  |  19 |
+| 5.2 Website for Green Finance:                              |  20 |
+| 6. Disclaimer                                               |  21 |
+
+8
+
+9
+
+2
+
+Statnett
+
+## Foreword
+
+The Green Change of Pace is happening across countries and sectors.
+
+A robust, integrated and flexible grid is a prerequisite for reaching climate targets and for enabling new green industries. Statnett's renewed strategy was launched in 2021 and sets ambitious targets for the Norwegian grid in line with the green change of pace. Statnett has launched an investment plan for the coming decade with historic ambitions.
+
+Sustainability is an integral part of all our plans and processes in order to realize our   ambitions. Our grid needs to be built with minimal impact to the environment, with acceptance from society and stakeholders and as efficiently as possible. At the same time we need to ensure that we will optimize the utilization of the existing and planned grid. We will develop relevant technology to ensure sustainability and efficiency.
+
+Foreword
+
+We work continuously to strengthen our efforts to   prepare the grid and power system for a zero emissions future. Statnett's mission is at the core of the green transition - and as we all know, there can be no transition without transmission.
+
+Photo: Jarle Nyttingnes
+
+<!-- image -->
+
+Photo: Trond Isaksen
+
+<!-- image -->
+
+Hilde Tonne President and CEO
+
+Green Bond Framework 2024
+
+3
+
+## 1. Overview of Statnett
+
+Statnett is playing a central role in the green transition for current and future generations. A secure power supply is vital to provide a good life for all and to enable sustainable value creation.
+
+Statnett is the Transmission System Operator (TSO) for the Norwegian power system. We are responsible for ensuring the economically efficient planning, development and operation of the power transmission network and for maintaining a constant balance between power production and consumption. We safeguard reliable supply of electricity, develop solutions that exploit the power system efficiently and pave the way for society's development. Society's need for a reliable electricity supply is growing in line with the electrification taking place as part of the green transition. This includes considerable green industrial development already taking place and new renewable power production onshore and offshore which will be needed in addition to substantial upgrades and expansion of the power grid.
+
+Statnett is a state-owned enterprise established in accordance with the State Enterprise Act which is almost identical to the corresponding law for limited companies, with the key difference being that there can only be one owner - the State.  We are owned by the state through the Ministry of Energy (ED), which appoints the Board of directors. The Board acts independently and has the same powers and responsibilities as boards of limited companies.
+
+## Statnett is authorized as System Operator,
+
+Transmission Grid Owner and System Planner for the Norwegian power system. Statnett is not engaged in power production. We are regulated by the Norwegian Water Resources and Energy Directorate (NVE) and the Norwegian Energy Regulatory Authority (RME).
+
+Norway has committed to the 1.5°C target in accordance with the Paris Agreement.  The target is for GHG emissions to be reduced by at least 55 % by 2030 and to achieve reductions of GHG emissions of the order of 90-95% by 2050 (vs 1990 levels). This is governed by the Norwegian Climate Change Act.
+
+## Outlook for the power system
+
+Statnett expects to see major developments in the power system in the coming years. In both Europe and Norway, the increased demand for power could exceed supply, and the share of intermittent power production is increasing. Therefore, the transition calls for closer cooperation and integration between countries and sectors, new technology and digital solutions. The transition process must be coordinated in a way that maintains the interdependence between power production, grid and value creation. Climate goals, the electrification of existing operations and the desire to establish more green industry in Norway are all driving up demand. The electricity grid is already at full capacity in many parts of Norway, and the country is heading for a net power deficit in a few years. There is an urgent need to build new power lines and increase capacity. The Norwegian government is planning significant investments in offshore wind power to meet the need for more power production. Statnett will prepare the power system to connect 15 GW of offshore wind to the mainland by 2040 in order to satisfy the expected growth in consumption.
+
+Statnett is central to the development of the Norwegian and Nordic power system. In addition to sufficient grids, it is important to continue the development of systems, market solutions and digitalisation in order to accommodate a future with increasing dependence on electricity. These areas will remain important moving forward, both for Statnett and in collaboration with the other Nordic TSOs.
+
+## 2. Statnett's Sustainability Strategy
+
+Statnett is playing a central role in the green transition for current and future generations. A secure power supply is vital to provide a good life for all and to enable sustainable value creation.
+
+## 2.1 Enabling the Green Transition
+
+Sustainability at Statnett is about adopting a responsible approach with respect to people, society and the environment. As the owner, developer and operator of the transmission grid and transmission system operator in the Norwegian power system, Statnett is playing a key role in the transition to a renewable energy society.
+
+In order to prioritise our sustainability efforts, we conduct double materiality analysis. The analysis examines our impact on society and stakeholders, as well as how relevant issues could affect our opportunities for long-term value creation. Statnett will continue to conduct a double materiality analysis on a regular basis.
+
+## 2.2 How we embed Sustainability
+
+The UN's sustainable development goals provide a framework for our efforts. Statnett participates in the UN's sustainable business initiative: the UN Global Compact (UNGC). Our Sustainability Strategy consists of three priority areas, which collectively support in particular UN SDG 7: Affordable and Clean Energy, 8: Decent Work and Economic Growth, 13: Climate Action, 14: Life Below Water and 15: Life on Land.
+
+In 2023 Statnett also joined the Renewable Grid Initiative, a multistakeholder initiative which brings together TSOs, NGOs (non-governmental organisations), academia and governments from across Europe. The aim of the initiative is to promote fair, transparent, sustainable grid development to enable the growth of renewables to achieve full decarbonisation in line with the Paris Agreement.
+
+With our sustainability priorities, we aim to:
+
+1. ENSURE A RESPONSIBLE TRANSITION - with respect for people and communities
+2. CUT OUR EMISSIONS - towards net zero in 2050
+3. PRESERVE NATURE - towards being nature positive
+
+These priorities rest on the following three principles:
+
+-  TRANSPARENCY - Transparency and openness around our assessments, including actual and potential impacts of our operations and value chain -through accurate and regular reporting
+-  INFORMED GOVERNANCE - Establishing and developing digital tools for sustainability data, in order to strengthen enterprise risk management, data quality and target setting
+-  COLLABORATION - National, regional and international forums for collaboration are important in order to build competence through learning and sharing, and to take collective action
+
+<!-- image -->
+
+<!-- image -->
+
+## 1. Responsible transition
+
+We are working to ensure a responsible transition.
+
+## STATNETT WILL:
+
+- Contribute to electrification and green value creation
+- Conduct due diligence in accordance with international standards
+- Engage in meaningful dialogue with all our impacted stakeholders
+- Respect human and labour rights throughout the value chain
+
+We must be prepared for a major increase in annual power consumption in Norway, of potentially up to 260-300 TWh, by 2050, compared to the 2022 level of 140 TWh. The grid is becoming even more important to meet this demand and support the net zero target and must therefore be strengthened and refurbished at an increased pace.
+
+Increased and faster development will also have an increased impact on nature and local communities. It is therefore important for Statnett to have good policies and processes in place to identity and address potential risks in an inclusive manner with respect for local interests and impacted rightsholders. We must also strengthen our efforts to reduce risk in our supply chain in respect of human rights and decent working conditions.
+
+## INITIATIVES INCLUDE:
+
+- Develop / update our system for the registration and follow-up of dialogue meetings with local communities and indigenous peoples
+- Internal capacity building on due diligence and stakeholder engagement
+- Engage and co-operate with representatives of indigenous people, civil society organisations, the Norwegian authorities and other TSOs
+- Strengthening our supplier risk assessment processes and supplier engagement efforts
+
+<!-- image -->
+
+## 2. Cut our emissions - net zero by 2050
+
+We are working to cut our greenhouse gas emissions.
+
+## STATNETT WILL:
+
+- Set science-based targets for our future activities
+- Reduce the use of SF 6
+
+We will reduce our emissions (Scope 1, 2 and 3) 1 in line with the Paris Agreement. We will have our targets and measures verified by a third party. The Science Based Targets Initiative is one of the leading organisations  supporting companies with developing and verifying science-based climate targets. In April 2023 we committed to SBTi. Our largest sources of emissions derive from the production of materials, extraction of biodiversity resources with high carbon storage, construction activities and SF6 gas.
+
+## INITIATIVES INCLUDE:
+
+- Systematically reducing SF 6 leaks from our facilities and using alternatives to SF when it becomes commercially available for facilities at the highest voltage level (420 kV) in the coming years
+- Continue to increase the use of drones instead of helicopters and manual work
+-  Use CO 2 pricing to reduce climate gas emissions for construction work by rewarding contractors with low climate gas emissions
+- Use new technologies, solutions and materials with lower climate footprint under manufacturing, construction and operation
+
+1  Scope 1: Direct emissions (operating assets over which the company has operational control, e.g. the use of fossil fuels). Scope 2: Indirect emissions from purchased energy - electricity and district heating/cooling.
+
+Scope 3: Indirect emissions from input factors (purchased goods or services)
+
+<!-- image -->
+
+<!-- image -->
+
+## 3. Preserving nature - moving towards being nature positive
+
+We are working to preserve nature.
+
+## STATNETT WILL:
+
+- Avoid valuable natural areas
+- Limit our footprint and minimize construction in carbon-rich natural areas
+- Explore nature-positive solutions
+
+The world is facing a nature crisis due to human activity and loss of biodiversity. Statnett has infrastructure throughout Norway both on land and underwater. Our activities entail interventions in nature and our presence in marine areas will increase. It is crucial that we reduce our impact, which we do by following the mitigation hierarchy, where improved biodiversity and the preservation and/or reestablishment of ecosystem services, habitats and functional areas for species are key. We will develop targets and measures and report on progress made in line with established frameworks.
+
+## INITIATIVES INCLUDE:
+
+- Carrying out environmental impact assessments for all plans that involve major land use changes
+- Developing and reporting on statistics of land-use in valuable natural areas
+- Developing a land-use index for Statnett that will support decision making and reporting
+
+## 2.3 Investing for the Green Transition
+
+The interconnected European power system contributes significantly to the green transition. A well-integrated energy market and energy system are fundamental prerequisites for achieving Europe's energy and climate targets in a cost-effective manner. Statnett faces dilemmas and trade-offs, and increased demands and expectations, as well as heightened interest in the role we will play in a low-emission society. This makes it important that we clearly explain how we set priorities. Our work will set the pace and direction for a sustainable transformation with a firm focus on people, society, nature and the climate.
+
+Our decision-making processes are based on the requirement that technology, choice of materials and solutions going forward have a low impact on the climate and nature, utilising our new knowledge and technology when it is available, both for new and existing facilities.
+
+A major increase in power consumption means significant investments in the grid. In the past decade, Statnett has invested more than NOK 70 billion in the grid and plans to invest NOK 100 - 150 billion in the grid and digitalization over the next 10 years (20242033). The task we are facing requires a holistic approach and clear prioritisations, including:
+
+1. New and strengthened grid across the country to facilitate electrification and new green industry.
+2. Upgrade all major transmission channels to 420 kV to increase capacity between regions.
+3. Optimize use of the existing grid. Nordic flow-based market coupling by 2024
+4. Support variable production with automated system operation and balancing mechanisms.
+5. Facilitate offshore wind production. Statnett is preparing to connect 15 GW offshore wind by 2040. We have identified potential connection points all along the coast, adapted to local power demand for efficient use of the power grid. Statnett is studying the potential of an offshore grid for hybrid wind solutions and is assumed to own and operate such grid if realized
+
+<!-- image -->
+
+## Project examples:
+
+## NEW CABLE SOGN - ULVEN, OSLO
+
+The Ministry of Energy has granted Statnett permission to renew the interconnectors between Sogn and Ulven substations in Oslo. The permit allows Statnett to construct a   tunnel connecting Sogn to Ulven substations for the new cable. The power cables are more than 50 years old, have restricted capacity and must be renewed to ensure that residents in the Greater Oslo area have a reliable supply of electricity also in the future. The old cables use oil insulation and SF6 gas which carry the risk of leakages. Since 1990, electricity consumption in the Greater Oslo Area has increased by more than 30 per cent and is expected to continue to increase in the future.
+
+- •
+
+- Voltage level: 420 kV
+
+- •
+
+- Length: 6.6 km
+
+- Cable type: PEX (insulated by plastic)
+
+- Number of cables: 2 cable set, each containing 3 cables
+
+- Completion: 2029
+
+- •
+
+- Expected total cost: NOK 3.7-4.4 bn
+
+## NEW STATION NORE
+
+The existing station is being renovated and a new one is being built with alternative   insulating gas. 8 tonnes of SF6 will be replaced by alternative gas.
+
+- •
+
+- Voltage level: 420kV/132 kV
+
+- •
+
+- Completion: 2029
+
+- •
+
+- Expected total cost: NOK 0.7 bn
+
+## 2.4 Our Social Contributions
+
+## A safe workplace
+
+Statnett has always prioritised ensuring a safe working environment. Statnett's vision is zero harm, which means that we must prevent any serious harm to people, property and physical assets through targeted work on building a safety culture, prevention, risk management and handling. Our work on safety is embedded in policy and a strategic plan.
+
+An important contribution to our strategic goals within Health, Safety and Environment (HSE) is to communicate and share experiences and learn from incidents and accidents in order to avoid or mitigate the risk of such incidents in the future. We work systematically to analyse and implement learnings from incidents and accidents in both the contractors' and in Statnett's operations.
+
+## We promote a diverse and inclusive working environment
+
+Statnett aims to promote equality and prevent discrimination. Increased diversity and an inclusive working environment are important aspects of this work. Many of our positions require a type of education traditionally dominated by men. This applies particularly to the power-supply fitter profession, where there are very few female candidates for vacant positions. To some extent, this also applies to certain technology and engineering disciplines. Increasing diversity in the recruitment process is crucial for developing a greater number of talented people in different disciplines with a variety of experience, nationalities, ethnicity, and gender.
+
+## We cooperate closely with trade unions
+
+Statnett recognizes and values the Norwegian working life model. This includes tripartite cooperation between the authorities, trade unions and employers' organizations, and local bipartite cooperation.  In accordance with Norwegian law, Statnett also has its own safety representatives who are elected by the employees. Statnett's Board of Directors has 3 employee members.
+
+## 2.5 Working for sustainable supply chains
+
+The pace of network expansion is increasing not only in Norway but also in the rest of the world. This puts extra pressure on the supplier market, where the risk of human rights violations and poor working conditions is increasing. This is happening in several parts of the value chain. For example, in connection with the extraction of minerals, in the production of components and the use of foreign workers in the development of networks. Our supply chain accounts for 80% of our emissions (scope 3), while nature is affected to varying degrees by activities in the supply chain.
+
+To prevent and manage these risks, it is essential that we have robust processes for procurement and follow-up of suppliers. Central to this work is the implementation of due diligence in order to contribute to respect for human rights, decent working conditions, reduction of emissions and minimizing negative impact on nature.  Therefore, we work to make our system more robust and effective in addressing sustainability considerations in engineering, procurement and supplier management.
+
+## 2.6 Governance
+
+Our work on sustainability is integrated into our processes through our management systems and strategy. The Board of Directors has overarching responsibility for ensuring that Statnett fulfil our mission in a sustainable manner. Group Management is responsible for following up the company's goals and implementing necessary measures. Day-today implementation of this work is a management responsibility. Our framework for risk management and internal control contributes to meeting requirements and expectations. Compliance with applicable laws and requirements is an essential part of our management, activities and decision-making processes. In addition, we follow internal obligations set out in our constitutive and governing documents, including:
+
+- Ethical guidelines (Code of Conduct)
+- Supplier Code of Conduct
+- Sustainability policy, Security policy, Procurement policy
+- Employee guidelines
+
+Statnett's sustainability policy is part of our management system and is designed to adopt a unified approach to our responsibility related to sustainability.
+
+## Data &amp; Reporting
+
+We publish updates on our sustainability performance through our Annual &amp; Sustainability Report. We report in accordance with recognised standards and frameworks, and we are committed to following the UN Global Compact's ten principles for responsible business. Statnett is certified according to the international standards ISO 14001 for environmental management and ISO 55001 for asset management. Statnett's sustainability disclosure is assured by a third party in order to provide assurance that it meets national and international standards. This is published in an Annual Limited Assurance Report.
+
+<!-- image -->
+
+## 3. Statnett's Green Bond Framework
+
+## Rationale for Green Finance
+
+Owing to Statnett's pivotal role for the energy transition, Statnett sees the Green Bond market as its main source of long-term funding going forward. Issuance of Green Bonds typically attracts a larger and more diversified base of investors, while contributing to increased focus for the critical green energy transition. Green Bonds also provide additional transparency around funded projects that carry environmental benefits.
+
+## Overview of framework
+
+In order to align its financing strategy with sustainability strategy and goals, Statnett has updated its Green Bond Framework (hereby referred to as 'The Framework') to align with EU Taxonomy and in future intend to align with the EU Green Bond Standard.
+
+The Framework is based on the ICMA Green Bond Principles 2021, including the updated Appendix 1 of June 2022. The ICMA Green Bond Principles are a set of voluntary guidelines that aim to promote integrity and transparency in the Green Bond Market. The principles provide guidance in the form of four key components:
+
+1. Use of Proceeds
+2. Process for Project Evaluation and Selection
+3. Management of Proceeds
+4. Reporting
+
+The Framework also follows the recommendation of ICMA Green Bond Principles regarding External Review.
+
+Statnett aims to keep this Framework updated with best-in-class market practices.
+
+## 3.1 Use of Proceeds
+
+'Eligible Projects' means a selected pool of projects funded, in whole or in part, by Statnett that promote the transition to low carbon and climate resilient growth and a sustainable economy as determined by Statnett.
+
+## Eligible Projects:
+
+| ICMA Green Bond Category   | Description                                                                                                                                                                                      | EU Taxonomy Technical Screening Criteria                                                                                                                                                                                                                                                                                                                                                                                | Contribution to EU Environmental Objectives             | EU Economic Activity (NACE)                 | UN SDGs 1    | Financial Line Item   |
+|----------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------|---------------------------------------------|--------------|-----------------------|
+| Renewable Energy           | Projects directly associated with renewable power production. Grid reinforcement projects in this category are a prerequisite for connecting new renewable power production to the power system. | 4.9 2 Construction and operation of direct connection, or expansion of existing direct connection, of low carbon electricity generation below the threshold of 100 g CO 2 e/kWh measured on a life cycle basis to a substation or network; Construction/installation and operation of equipment and infrastructure where the main objective is an increase of the generation or use of renewable electricity generation | EU Environmental Objective 1: Climate Change Mitigation | Transmission of Electricity (NACE: D.35.12) | 7.2 9.1 13.1 | Capex                 |
+
+- 1  United Nations Sustainable Development Goals
+
+2  EU TSC 4.9 Transmission &amp; Distribution of Electricity
+
+<!-- image -->
+
+| ICMA Green Bond Category   | Description                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               | EU Taxonomy Technical Screening Criteria                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     | Contribution to EU Environmental Objectives             | EU Economic Activity (NACE)                 | UN SDGs      | Financial Line Item   |
+|----------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------|---------------------------------------------|--------------|-----------------------|
+| Renewable Energy           | Projects directly associated with serving demand for electricity. The projects in this category will typically be initiated due to: Increased demand for electricity, due to transition from fossil fuels to electric solutions (i.e. electric cars, electric heating, electrification of industrial processes instead of fossil fuel usage), and/or: Poor conditions of existing network components that are important for serving existing and future demand for electricity. Typical projects would be an upgrade of existing lines and substations, due to old age and/or new technical requirements. | 4.9 The transmission and distribution infrastructure or equipment is in an electricity system that complies with at least one of the following criteria: (a) the system is the interconnected European system, i.e. the interconnected control areas of Member States, Norway, Switzerland and the United Kingdom, and its subordinated systems; (b) more than 67 %of newly enabled generation capacity in the system is below the generation threshold value of 100 g CO2e/kWh measured on a life cycle basis in accordance with electricity generation criteria, over a rolling five-year period; (c) the average system grid emissions factor, calculated as the total annual emissions from power generation connected to the system, divided by the total annual net electricity production in that system, is below the threshold value of 100 g CO2e/kWh measured on a life cycle basis in accordance with electricity generation criteria, over a rolling five-year period; Infrastructure dedicated to creating a direct connection or expanding an existing direct connection between a substation or network and a power production plant that is more greenhouse gas intensive than 100 g CO2e/kWh measured on a | EU Environmental Objective 1: Climate Change Mitigation | Transmission of Electricity (NACE: D.35.12) | 7.2 9.1 13.2 | Asset Value / Capex   |
+
+| ICMA Green Bond Category   | Description                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              | EU Taxonomy Technical Screening Criteria                                                                                                                                                                                                                                                                                                                                                                                                                                                                      | Contribution to EU Environmental Objectives             | EU Economic Activity (NACE)                 | UN SDGs 1    | Financial Line Item   |
+|----------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------|---------------------------------------------|--------------|-----------------------|
+| Renewable Energy           | Interconnectors between regional markets to increase the provision of clean electricity. A typical project would be interconnectors between regional markets in Norway or between Norway and other countries (namely, countries with a clear goal of a renewable power system). Clean energy production is typically intermittent and/or stochastic. Interconnectors increase the market for clean energy and reduce the uncertainty for both producers and consumers. This facilitates increased demand | 4.9 Construction and operation of interconnectors between transmission systems, provided that one of the systems is compliant under the EU Taxonomy                                                                                                                                                                                                                                                                                                                                                           | EU Environmental Objective 1: Climate Change Mitigation | Transmission of Electricity (NACE: D.35.12) | 7.2 9.1 13.1 | Capex                 |
+| Renewable Energy           | Technology - Innovating to enable the green transition Projects directly related to innovation and technology development to support the transition to a renewable power system                                                                                                                                                                                                                                                                                                                          | 4.9 Installation of equipment to increase the controllability and observability of the electricity system and to enable the development and integration of renewable energy sources, including: sensors and measurement tools (including meteorological sensors for forecasting renewable production); (ii) communication and control (including advanced software and control rooms, automation of substations or feeders, and voltage control capabilities to adapt to more decentralised renewable infeed) | EU Environmental Objective 1: Climate Change Mitigation | Transmission of Electricity (NACE: D.35.12) | 7.2 9.1 13.1 | Capex                 |
+
+## Split of New Financing and Refinancing
+
+Statnett Green Bonds can be used to finance the acquisition and development of new Eligible Projects and to refinance existing Eligible Projects. The division of the allocation of Green Bond proceeds between financing and refinancing will be included in the annual Green Bond Allocation and Impact Report.
+
+## Look-back period
+
+Eligible Green Projects may include the current value of 'Fixed Assets', Capital Expenditure (CapEx) and/ or Operational Expenditure. Asset Value will qualify without any look-back period, while CapEx and Opex will qualify will a look-back period of no longer than 36 months from the time of issuance.
+
+## Exclusions
+
+Statnett Green Bonds will not finance the installation of power supply infrastructure exclusively dedicated to nuclear or fossil energy generation projects.
+
+## 3.2 Process for Project Evaluation and Selection
+
+Statnett has established a dedicated Green Finance Committee (hereby referred to as 'Committee') to determine the eligibility of the nominated Eligible Green Projects.
+
+The Committee will comprise representatives from at least three of the four functions, (with one representative from each function present):
+
+1. Grid Planning Function
+2. Land Use and Environmental Function
+3. Finance and Treasury Function
+- Sustainability Function
+
+The Committee will be responsible for:
+
+- Selection of Potential Green Eligible Projects as per the criteria of the Green Bond Framework
+- Approval of Eligible Green Projects. The
+
+Representatives from the Land Use and Environment Function must always be present and will have a veto
+
+- Removal of Green Projects that no longer meet the Eligibility Criteria defined in this Framework
+- Review and Update of Green Bond Framework to reflect changes in corporate strategy, market or regulatory developments, on a best effort basis
+- Monitoring of internal processes of tracking Green Bond proceeds
+- Oversee, approval and publication of Allocation and Impact Report
+
+The Committee will meet at least on an annual basis.
+
+Only projects which meet the criteria of Statnett's Green Bond Framework, and have a high likelihood for positive, net long-term environmental effects, will be approved. A record will be kept of meetings held and decisions made.
+
+Statnett's activities are carried out in accordance with EU Taxonomy requirements for 'Do No Significant Harm Criteria' and 'Minimum Social Safeguards'. Please see 'Appendix' section of this Framework for further details.
+
+## 3.3 Management of Proceeds
+
+An amount equal to the net proceeds of the issue of the Green Bonds will be booked to a dedicated general ledger account that will support Statnett's funding of Eligible Projects. As long as the Green Bonds are outstanding and the dedicated account has a remaining balance, at the end of every fiscal year, funds will be deducted from the dedicated account and added to Statnett's Green Project Portfolio in an amount equal to all disbursements made during such year in respect of financing and/or refinancing of Eligible Projects. If, for any reason, a financed Eligible Project no longer meets the eligibility criteria, it will be removed from the Green Project Portfolio and the corresponding funds will be moved back to the dedicated general ledger account.
+
+## 3.4 Reporting
+
+To enable investors to follow the development and provide insight to prioritized areas, Statnett will provide an annual allocation and Impact Report until the full allocation of each Green Bond proceeds, and as necessary in the event of material changes in Eligible Green Assets. The Report will be made available on Statnett's website and will include the below information. Wherever feasible, Statnett will consider supplementing the Report with case studies.
+
+## Allocation Report
+
+- Aggregate amount of allocation of proceeds per eligible category
+- Balance (if any) of any unallocated proceeds
+- Split of proceeds between financing vs refinancing
+- Wherever feasible, the breakdown per type of Eligible Green Assets (e.g., Asset Value, Capital Expenditure, Operating Expenditure)
+
+| ICMA Eligible Category   | Potential Impact Indicators                                                                                                                                                                                |
+|--------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Renewable Energy         | Environmental: Capacity of renewable energy production connected to the grid (in MW) Estimated avoided CO 2 emissions (in tCO 2 e per year) Responsibility Indicators: Grid losses (GWh) SF 6 leakage (kg) |
+
+## Impact Report
+
+Statnett intends to report on the expected impact of the Eligible Green Projects (where feasible) through a dedicated Impact Report. Statnett intends to align, on a best effort basis, the reporting with the approach used in the ICMA Handbook - Harmonised Framework for Impact Reporting (June 2022). The Report may provide:
+
+- Description of Green Project financed
+- Where feasible, impact indicators, as described below:
+
+## 4. External Review
+
+## 4.1 Second Party Opinion (Pre-Issuance)
+
+To secure alignment with national and international guidelines, Statnett has obtained an external second party opinion from S&amp;P Global Ratings on the Green Bond Framework. The second opinion is made available on Statnett's webpage. Statnett expects to appoint an External Reviewer that will provide pre-issuance verification on the alignment of the Framework to EU Green Bond Standard, once the regulation is in place.
+
+## 4.2 Post-Issuance External Verification
+
+An appropriate independent auditor or similar third party appointed by Statnett with the relevant expertise
+
+<!-- image -->
+
+and experience will annually assure Statnett's selection process for the financing of Eligible Projects and the allocation of the proceeds of Statnett's Green Bonds, and that such processes and allocations are in accordance with the Statnett Green Bond Framework. The post issuance verification is expected to include a statement regarding the compliance with the EU Green Bond Standard, once the Regulation is in place.
+
+The opinion will be made publicly available on Statnett's webpage.
+
+## 5. Appendix
+
+## 5.1 EU Taxonomy assessment
+
+Statnett is subject to the EU Taxonomy requirements starting in the 2023 financial year. We included information on the Taxonomy in our annual report for the 2022 financial year as well. Statnett's activity is taxonomy eligible, and our entire business is part of the energy sector: activity 4.9 'Transmission and Distribution of Electricity', in accordance with the Taxonomy Regulation.
+
+## Substantial contribution
+
+Statnett's activity 4.9 in the Taxonomy meets the criterion of making a 'substantial contribution' to the climate target 'Climate change mitigation', because we are part of the interconnected European system and the activities related to 4.9 'Transmission and Distribution of Electricity' are defined as an enabling activity.
+
+## 'Do No Significant Harm'
+
+Our operations meet the Do No Significant Harm (DNSH) criteria for the other environmental objectives, and we have carried out the necessary assessments and measures. The table below summarises our assessment of the DNSH criteria for our business activities in activity 4.9 of the Taxonomy.
+
+| Environmental Objectives                                           | Our assessment of the DNSH-criteria for activity 4.9 of the taxonomy                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
+|--------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Climate change adaptation                                          | Statnett has identified the physical climate risks that are material to the transmission facilities portfolio 1 , and conducted climate risk and vulnerability assessments.                                                                                                                                                                                                                                                                                                                                                             |
+| The sustainable use and protection of water and marine resources   | There are currently no criteria for water in relation to activity 4.9.                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
+| The transition to a circular economy                               | Statnett has in place a waste management plan to ensure maximal reuse or recycling at end of life in accordance with the waste hierarchy. National legislation as well as Statnett's own internal policies and instructions govern how waste management is carried out in all our projects and at every location, by Statnett own staff as well as by its suppliers.                                                                                                                                                                    |
+| Pollution prevention and control                                   | Based on Norwegian legislation, including AML, IKF and BHF 2 , as well as the basic requirements in ISO 55001 and 14001, Statnett is compliant with the guidelines in IFC's HSE guidelines. Under the provisions of the Norwegian Radiation Protection Regulations and the authorities' advice on caution and good practice, Statnett respects the norms and regulations in the DNSH requirement related to electromagnetic fields. PCB-containing power conduits have been taken out of use, in compliance with national regulation. 3 |
+| The protection and restoration of natural diversity and ecosystems | We comply with relevant requirements and carry out environmental impact assessments in accordance with applicable statutory requirements and expectations.                                                                                                                                                                                                                                                                                                                                                                              |
+
+1  MET-report-27-2015.pdf
+
+2  The Internal Control Regulations (IKF) (for Statnett as an employer) and the Construction Client Regulations (BHF) (for Statnett as a construction client) - both based on the Working Environment Act (AML).
+
+3  Polyklorerte bifenyler (PCB) (miljodirektoratet.no)
+
+## Minimum Social Safeguards Assessment
+
+Statnett's activities are carried out in accordance with the taxonomy requirements for minimum social safeguards. At Statnett, respect for human rights and requirements for decent working conditions are fundamental. Statnett's Code of Conduct and Supplier Code of Conduct, which have been approved by the Board of Directors, reflect this. Our contracts include special requirements for pay, working conditions and ethical guidelines for our suppliers. In 2022, Statnett also established instructions for due diligence statements that follow the method in the OECD Guidelines for Multinational Enterprises. Example of Statnett's relevant Policies are Sustainability Policy, Security Policy, and Procurement Policy. Statnett also complies with the Norwegian Transparency Law (Åpenhetsloven), which came into force in 2022. The law requires companies in Norway of a certain size, to adopt measures to identify, cease, prevent, mitigate and publicly account for negative actual and potential human rights impacts, in accordance with the OECD Guidelines.  Statnett's annual sustainability report provides the public account in accordance with the law.
+
+We regularly review and update our governing documents, including our code of conduct, policies and related internal guidelines, to ensure they reflect and address continued judicial and contextual developments, and to ensure that they meet the expectations of our stakeholders.
+
+## Taxonomy Results
+
+Statnett has a high percentage of taxonomy eligible activities (2023) including 99.6 per cent of revenues, 100 per cent of capital expenditure and 100 per cent of operating expenditure since all our activities are included in the activity 'Transmission and Distribution of Electricity'. Statnett has a correspondingly high percentage of aligned activities after reviewing and assessing that all criteria in the taxonomy related to 'No significant negative impact on the environmental objectives' (Do No Significant Harm - DNSH) and that minimum safeguards are met. Capital expenditure achieves 100 per cent, as there have been no investments linked to non-eligible activities. Definitions of the KPIs are in line with the taxonomy requirements.
+
+- Revenue (turnover): The percentage of eligible and aligned revenue was 99.6 per cent for the 2023 financial year (99.5 per cent in 2022).
+- Capital expenditure: The percentage of eligible and aligned capital expenditure was 100 per cent for the 2023 financial year (100 per cent in 2022).
+- Operating expenditure: The percentage of eligible and aligned operating expenditure was 100 per cent for the 2023 financial year (99.1 per cent in 2022).been no investments linked to non-eligible activities. Definitions of the KPIs are in line with the taxonomy requirements.
+
+## 5.2 Website for Green Finance:
+
+Statnett has a dedicated webpage for Green Finance at its website where investors, lenders and other interested parties can find information regarding Statnett Green Financing, including:
+
+-  Green Bond Framework
+- Second Party Opinion
+- Allocation and Impact Report
+
+## 6. Disclaimer
+
+The information and opinions contained in this Statnett Green Bond Framework (the Framework) are provided as at the date of this Framework and are subject to change without notice. None of Statnett SF (Statnett) or any of its affiliates assume any responsibility or obligation to update or revise such statements, regardless of whether those statements are affected by the results of new information, future events or otherwise. This Framework represents current Statnett policy and intent, is subject to change and is not intended to, nor can it be relied on, to create legal relations, rights or obligations. This Framework is intended to provide non-exhaustive, general information. This Framework may contain or incorporate by reference public information not separately reviewed, approved or endorsed by the Statnett and accordingly, no representation, warranty or undertaking, express or implied, is made and no responsibility or liability is accepted by the Statnett as to the fairness, accuracy, reasonableness or completeness of such information. This Framework may contain statements about future events and expectations that are forward looking statements. None of the future projections, expectations, estimates or prospects in this document should be taken as forecasts or promises nor should they be taken as implying any indication, assurance or guarantee that the assumptions on which such future projections, expectations, estimates or prospects have been prepared are correct or exhaustive or, in the case of assumptions, fully stated in the Framework. No representation is made as to the suitability of any Green Bond Instruments to fulfil environmental and sustainability criteria required by prospective investors. Each potential purchaser of Green Bond Instruments should determine for itself the relevance of the information contained or referred to in this Framework or the relevant Green Bond Instruments documentation for such Green Bond Instruments regarding the use of proceeds and its purchase of Green Bond Instruments should be based upon such investigation as it deems necessary. Statnett has set out its intended policy and actions in this Framework in respect of use of proceeds, project evaluation and selection, management of proceeds and reporting, in connection with the Statnett Green Bond Instruments. However, it will not be an event of default or breach of contractual obligations under the terms and conditions of any such Green Bond Instruments if Statnett fails to adhere to this Framework, whether by failing to fund or complete Eligible Green Assets or by failing to ensure that proceeds do not contribute directly or indirectly to the financing of the excluded activities as specified in this Framework, or by failing (due to a lack of reliable information and/or data or otherwise) to provide investors with reports on uses of proceeds and environmental impacts as anticipated by this Framework, or otherwise. In addition, it should be noted that all of the expected benefits of the Eligible Green Assets as described in this Framework may not be achieved. Factors including (but not limited to) market, political and economic conditions, changes in government policy (whether with a continuity of the government or on a change in the composition of the government), changes in laws, rules or regulations, the lack of available Eligible Green Assets being initiated, failure to complete or implement projects and other challenges, could limit the ability to achieve some or all of the expected benefits of these initiatives, including the funding and completion of Eligible Green Assets. Each environmentally focused potential investor should be aware that Eligible Green Assets may not deliver the environmental or sustainability benefits anticipated and may result in adverse impacts. This Framework does not constitute a recommendation regarding any securities of Statnett. This Framework is not, does not contain and may not be intended as an offer to sell or a solicitation of any offer to buy any securities issued by Statnett or any member of the Statnett Group. In particular, neither this document nor any other related material may be distributed or published in any jurisdiction in which it is unlawful to do so, except under circumstances that will result in compliance with any applicable laws and regulations. Persons into whose possession such documents may come must inform themselves about and observe any applicable restrictions on distribution. Any decision to purchase or otherwise to invest in any Green Bond Instruments should be made solely on the basis of the information to be contained in any offering document provided in connection with the offering of such Green Bond Instruments. Prospective investors are required to make their own independent investment decisions.
+
+Statnett SF P.O.Box  4904 Nydalen NO-0423 Oslo Phone: 23 90 30 00 firmapost@statnett.no
